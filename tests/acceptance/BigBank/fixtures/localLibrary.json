@@ -1,0 +1,26 @@
+{
+  "book1" : {
+    "title": "Outliers: The Story of Success",
+    "author": {
+      "first_name": "Malcolm",
+      "family_name": "Gladwell",
+      "date_of_birth": "09/03/1963",
+      "date_of_death": ""
+    },
+    "genre": "Non-fiction",
+    "summary": "Genius is over-rated. Success is not just about innate ability. It’s combined with a number of key factors such as opportunity, meaningful hard work (10,000 hours to gain mastery), and your cultural legacy. Random factors of chance, such as when and where you were born can influence the opportunities you have.",
+    "isbn": "978-0316017923"
+  },
+  "book2" : {
+    "title": "Alice Adventures in Wonderland",
+    "author": {
+      "first_name": "Lewis",
+      "family_name": "Carroll",
+      "date_of_birth": "01/27/1832",
+      "date_of_death": "01/14/1898"
+    },
+    "genre": "Fiction",
+    "summary": "Alice in Wonderland Summary. Alice is sitting with her sister outdoors when she spies a White Rabbit with a pocket watch. Fascinated by the sight, she follows the rabbit down the hole. She falls for a long time, and finds herself in a long hallway full of doors.",
+    "isbn": "978-1536831139"
+  }
+}
